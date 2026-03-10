@@ -1,5 +1,7 @@
 # ZeroClaw AI Gateway Deployment on AWS
 
+architecture.png
+
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-purple)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
 ![Docker](https://img.shields.io/badge/Container-Docker-blue)
