@@ -8,7 +8,6 @@
 ![ECS](https://img.shields.io/badge/Compute-ECS%20Fargate-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-///
 
 
 
@@ -18,7 +17,7 @@
 
 
 
-## Project Overview
+# Project Overview
 
 This project deploys the **ZeroClaw AI Gateway** on **AWS ECS Fargate** using **Terraform Infrastructure as Code**.
 
