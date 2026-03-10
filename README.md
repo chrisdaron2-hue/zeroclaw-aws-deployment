@@ -41,25 +41,8 @@ Container --> SNS[SNS Alerts]
 
 # High Level Infrastructure
 
-```
-                Internet
-                    │
-                    ▼
-        Application Load Balancer
-                    │
-                    ▼
-            ECS Fargate Service
-                    │
-                    ▼
-           ZeroClaw Gateway Container
-                    │
-        ┌───────────┼────────────┐
-        ▼           ▼            ▼
-   Telegram API   S3 Storage   CloudWatch Logs
-        │
-        ▼
-   Telegram Bot Users
-```
+<img width="1024" height="1536" alt="Zeroclaw image" src="https://github.com/user-attachments/assets/3e946eb7-5659-4ce0-9e65-53a210ffa340" />
+
 
 ---
 
