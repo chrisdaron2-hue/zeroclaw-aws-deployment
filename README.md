@@ -85,9 +85,6 @@ ZeroClaw/
 ├── main.tf
 ├── variables.tf
 ├── outputs.tf
-├── terraform.tfvars
-├── terraform.tfstate
-├── infrastructure/
 │
 └── README.md
 ```
