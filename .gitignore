@@ -1,0 +1,29 @@
+# Terraform
+
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+crash.log
+
+# AWS credentials
+
+.aws/
+
+# Python virtual environment
+
+.venv/
+
+# Environment variables
+
+.env
+
+# macOS
+
+.DS_Store
+
+# IDE
+
+.idea/
+.vscode/
+
