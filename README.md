@@ -52,6 +52,7 @@ Container --> SNS[SNS Alerts]
 # High Level Infrastructure
 
 <img width="1024" height="1536" alt="Zeroclaw image 2" src="https://github.com/user-attachments/assets/0a174273-7800-4b7a-8cfe-6c6a17c67d23" />
+
 ---
 
 # AWS Services Used
